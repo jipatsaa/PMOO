@@ -7,7 +7,7 @@ public class ListaJokalariak {
 	private Jokalaria[] lista;
 	private static ListaJokalariak nireListaJokalariak = null;
     private int jokalariKop=2;//defektuz 2
-	//eraikitazilea
+	//eraikitzailea
 	private ListaJokalariak() {
 		this.lista = new Jokalaria[this.jokalariKop];
 	}
