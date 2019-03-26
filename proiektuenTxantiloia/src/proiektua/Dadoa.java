@@ -35,12 +35,5 @@ public class Dadoa {
     	this.setGoikoAldea(egungoBalioa);   	
     }
     
-    /*
-    public void sartuNahiDuzunPuntuazioa() {
-    	Scanner sc = new Scanner(System.in);
-    	System.out.println("Sartu nahi duzun puntuazioa:");
-    	int punt = sc.nextInt();
-    	this.setGoikoAldea(punt);
-    }
-    */
+   
 }
